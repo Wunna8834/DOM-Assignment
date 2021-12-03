@@ -1,0 +1,28 @@
+html {
+    background-color:#F5EEDC;
+}
+
+.container {
+    width: 50%;
+    text-align: center;
+    border: 2px solid blue;
+    margin: 5rem;
+    padding: 1rem;
+    
+}
+
+#number {
+    font-size: 64px;
+}
+
+#button {
+    display: flex;
+    height: 2rem;
+    justify-content: space-around;
+}
+
+p{
+    margin-left: 1rem;
+    padding-top: 0.5rem;
+    color:blue;
+}
